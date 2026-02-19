@@ -1,4 +1,4 @@
-package emlib.meta;
+package jemoji.meta;
 
 public enum EmojiCategory {
 	EMOTICON("emoticons");
